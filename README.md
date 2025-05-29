@@ -1,16 +1,23 @@
-# music_app
+# 🚀 Flutter MVVM + Provider + Firebase Firestore App
 
-A new Flutter project.
+A Flutter application following the MVVM architecture using `Provider` for state management and Firebase Firestore for dynamic data. Perfect starting point for apps needing modular structure, live service content, and Firebase integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+![App Screenshot](assets/images/screenshot.png) 
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧩 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✅ MVVM architecture (Model-View-ViewModel)
+- ✅ `Provider` for state management
+- ✅ Firebase Firestore integration
+- ✅ Dynamic service list (title, description, icon)
+- ✅ Gradient background and AppBar
+- ✅ Clean folder structure for maintainability
+
+---
+
+## 🏗️ Folder Structure
+
