@@ -4,7 +4,11 @@ A Flutter application following the MVVM architecture using `Provider` for state
 
 ---
 
-![App Screenshot](assets/images/screenshot.png) 
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github.com/asadalpha/music-app/blob/main/assets/image1.png" alt="Screenshot 1" width="30%"/>
+  <img src="https://github.com/asadalpha/music-app/blob/main/assets/image2.png" alt="Screenshot 1" width="30%"/>
+</div>
 
 ---
 
@@ -17,7 +21,13 @@ A Flutter application following the MVVM architecture using `Provider` for state
 - ✅ Gradient background and AppBar
 - ✅ Clean folder structure for maintainability
 
----
+## 🔧 Getting Started
 
-## 🏗️ Folder Structure
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+flutter run
+```
 
