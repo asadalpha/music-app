@@ -7,7 +7,7 @@ A Flutter application following the MVVM architecture using `Provider` for state
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <img src="https://github.com/asadalpha/music-app/blob/main/assets/image1.png" alt="Screenshot 1" width="30%"/>
-  <img src="https://github.com/asadalpha/music-app/blob/main/assets/image2.png" alt="Screenshot 1" width="30%"/>
+  <img src="https://github.com/asadalpha/music-app/blob/main/assets/image2.png" alt="Screenshot 2" width="30%"/>
 </div>
 
 ---
